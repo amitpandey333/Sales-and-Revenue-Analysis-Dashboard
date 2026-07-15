@@ -70,9 +70,8 @@ The dataset contains information such as:
 
 Example:
 
-```markdown
 ![Dashboard](dashboard.png.png)
-```
+
 
 ---
 
