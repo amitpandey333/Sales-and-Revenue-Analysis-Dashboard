@@ -71,7 +71,8 @@ The dataset contains information such as:
 Example:
 
 ```markdown
-"C:\Users\Amit Pandey\OneDrive\Pictures\Screenshots\Screenshot 2026-07-15 213208.png"
+<img width="1687" height="943" alt="Screenshot 2026-07-15 213208" src="https://github.com/user-attachments/assets/79592b0d-e53b-49d9-88e1-c9ebc677c207" />
+
 
 ```
 
